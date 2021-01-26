@@ -186,4 +186,3 @@ in {
     doc = ./grocy.xml;
   };
 }
-
